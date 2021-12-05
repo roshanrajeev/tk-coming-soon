@@ -11,7 +11,7 @@ body {
     background-color: #000000;
 }
 
-body > div {
+/* body > div {
     background: rgb(151, 33, 0);
     background: linear-gradient(
         120deg,
@@ -21,7 +21,7 @@ body > div {
         rgba(37, 2, 2, 1) 80%,
         rgba(151, 33, 0, 0.5) 100%
     );
-}
+} */
 
 .container {
     max-width: 700px;
